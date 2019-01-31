@@ -10,9 +10,9 @@ Just git clone the repository and start playing :
 
 ```
 git clone https://github.com/vicbonj/cours_ml.git
+cd cours_ml/
+jupyter-notebook cours_ml.ipynb
 ```
-- cd cours_ml/
-- jupyter-notebook cours_ml.ipynb
 
 Implemented so far:
 - ANN model
