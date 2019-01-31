@@ -9,6 +9,7 @@ This is a jupyter notebook to learn how to use simple machine learning algorithm
 Just git clone the repository and start playing :
 
 - git clone https://github.com/vicbonj/cours_ml.git
+- cd cours_ml/
 - jupyter-notebook cours_ml.ipynb
 
 Implemented so far:
