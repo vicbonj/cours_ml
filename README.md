@@ -1,4 +1,4 @@
-# cours_ml
+# Machine learning courses
 
 Author: Victor Bonjean
 
