@@ -14,7 +14,7 @@ cd cours_ml/
 jupyter-notebook cours_ml.ipynb
 ```
 
-You need to have installed keras, tensorflow and/or tensorflow-gpu if you have a GPU (it will be faster for the CNN algorithm), better with python3.6 version.
+You need to have installed scikit-learn, keras, tensorflow and/or tensorflow-gpu if you have a GPU (it will be faster for the CNN algorithm), better with python3.6 version.
 
 Implemented so far:
 - ANN model
